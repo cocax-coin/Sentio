@@ -27,6 +27,18 @@
 
 ---
 
+## 🖥️ UI Availability
+
+Sentio already ships with a React Native (Expo) mobile UI located in `frontend/mobile` (e.g., `ChatScreen`, `ChatListScreen`, `DashboardScreen`). Start it with:
+
+```bash
+cd frontend/mobile
+npm install
+npx expo start
+```
+
+---
+
 ## ��️ Architecture
 
 ```
